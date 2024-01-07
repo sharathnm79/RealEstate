@@ -76,7 +76,7 @@ function Extra() {
             }}
             className="image-container"
           >
-            <img src="./main.jpg" alt="main-image-git" />
+            <img src="./main.jpg" alt="kjsb" />
           </motion.div>
         </div>
       </div>
